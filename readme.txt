@@ -1,3 +1,7 @@
 git is a version control  system.
 branch dev test
-feature
+<<<<<<< HEAD
+feature1
+=======
+feature1 test
+>>>>>>> feature1
